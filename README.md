@@ -30,16 +30,3 @@
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,photoshop,illustrator,javascript,typescript,firebase,java,nextjs,mysql,wordpress" /><br>
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
- <img src="https://streak-stats.demolab.com?user=nercio&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /> <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nercio&count_private=true&show_icons=true&theme=react&hide_border=true&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nercio&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/>
